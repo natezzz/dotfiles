@@ -85,4 +85,5 @@ source $ZSH/oh-my-zsh.sh
 alias vu='pamixer -i 5'
 alias vd='pamixer -d 5'
 alias vm='pamixer -t'
+
 alias rm='noglob timeout 3 rm -Iv --one-file-system'
