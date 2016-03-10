@@ -85,3 +85,5 @@ source $ZSH/oh-my-zsh.sh
 alias vu='pamixer -i 5'
 alias vd='pamixer -d 5'
 alias vm='pamixer -t'
+
+# line
